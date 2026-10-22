@@ -1,0 +1,24 @@
+{
+  "d77d9020-86ef-4afb-a572-7b4e642dcd2e": {
+    "id": "d77d9020-86ef-4afb-a572-7b4e642dcd2e",
+    "title": "",
+    "content": "",
+    "color": "#fff740",
+    "x": 1067,
+    "y": 484,
+    "width": 260,
+    "height": 220,
+    "on_top": true
+  },
+  "da7f6af6-dcdd-4d62-b48e-a306eed2ea17": {
+    "id": "da7f6af6-dcdd-4d62-b48e-a306eed2ea17",
+    "title": "",
+    "content": "",
+    "color": "#ffbf69",
+    "x": 180,
+    "y": 180,
+    "width": 260,
+    "height": 220,
+    "on_top": true
+  }
+}
