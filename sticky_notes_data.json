@@ -1,11 +1,11 @@
 {
   "d77d9020-86ef-4afb-a572-7b4e642dcd2e": {
     "id": "d77d9020-86ef-4afb-a572-7b4e642dcd2e",
-    "title": "",
+    "title": "title",
     "content": "",
     "color": "#fff740",
-    "x": 1067,
-    "y": 484,
+    "x": 861,
+    "y": 393,
     "width": 260,
     "height": 220,
     "on_top": true

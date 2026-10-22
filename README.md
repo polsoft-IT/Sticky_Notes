@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Data](https://img.shields.io/badge/Storage-JSON-orange?logo=json&logoColor=white)
 
+<div align="center">
+  <img src="Screenshot.png" alt="Sticky Notes Screenshot" width="600">
+</div>
+
 > Compact, portable sticky-note style notes for your desktop. Built with PyQt6 and integrated with Text List Tool.
 
 ## ✨ Features
